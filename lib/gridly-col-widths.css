@@ -1,4 +1,13 @@
 @media (min-width: 48em) {
+  .col-1perc { flex: 0 0 1%; }
+  .col-2perc { flex: 0 0 2%; }
+  .col-3perc { flex: 0 0 3%; }
+  .col-4perc { flex: 0 0 4%; }
+  .col-5perc { flex: 0 0 5%; }
+  .col-6perc { flex: 0 0 6%; }
+  .col-7perc { flex: 0 0 7%; }
+  .col-8perc { flex: 0 0 8%; }
+  .col-9perc { flex: 0 0 9%; }
   .col-tenth { flex: 0 0 10%; }
   .col-eleventh { flex: 0 0 11%; }
   .col-twelfth { flex: 0 0 12%; }
